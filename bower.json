@@ -1,0 +1,27 @@
+{
+  "name": "myriad",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lucaswadedavis/myriad",
+  "authors": [
+    "Lucas Wade Davis <lucaswadedavis@gmail.com>"
+  ],
+  "description": "freestyle generative 2D content",
+  "main": "myriad.js",
+  "keywords": [
+    "generative",
+    "content",
+    "procedural",
+    "generation"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper": "~0.9.22"
+  }
+}

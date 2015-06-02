@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/lucaswadedavis/myriad#readme",
   "dependencies": {
-    "magog": "0.0.1"
+    "magog": "0.0.1",
+    "paper": "^0.9.22"
   }
 }
